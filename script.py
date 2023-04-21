@@ -28,7 +28,7 @@ See <i>/help</i> for commands and more details.</b>
 
 <b>Filter Commands;</b>
 
-<code>/filter name reply</code>  -  Add filter for name
+<code>/add name reply</code>  -  Add filter for name
 
 <code>/del name</code>  -  Delete filter
 
