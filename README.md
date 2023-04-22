@@ -15,7 +15,7 @@
 ## SUPPORT
 ## IF YOU NEED ANY ASSISTANCE FEEL FREE TO CONTACT
 ## YOUTUBE  [SUPPORT_CHANNEL](https://youtube.com/@RnpDeveloper)
-## Contact [OWNER](https://t.me/. MrRnp)
+## Contact [MrRnp](https://t.me/MrRnp)
   
 ### Features
 ○ Nearly unlimited filters
